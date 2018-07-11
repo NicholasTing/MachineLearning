@@ -3,4 +3,4 @@
 
 #### It will be done in R and Python. I will be mastering Python before R.
 
-Resources : https://www.udemy.com/machinelearning/learn/v4/overview
+Resources and Reference : https://www.udemy.com/machinelearning/learn/v4/overview
